@@ -34,4 +34,4 @@ The symptom is that our code was getting stuck, printing out the same thing over
 
 ![Image](picturesTwo/5.png)
 
-The symptom is we were printing out empty links, which is unnecessary. The bug was that we had no way to check if a link was empty, so that when we passed in both an empty link and a full one both were added to the list. This fix checks to see if the  
+The symptom is we were printing out empty links in our list, which is unnecessary. The bug was that we had no way to check if a link was empty, so that when we passed in both an empty link and a full one both were added to the list. This fix checks to see if the passed in link is empty and if so ignores it.  

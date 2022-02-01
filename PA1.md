@@ -16,7 +16,7 @@ now you'll want to get access to the terminal in VSCode. It's view > terminal, a
 ## try some commands
 try out some of the cool commands linux has to offer.
 
-![Image](Users/joey/Documents/commands.png)
+![Image](Users/joey/Documents/aCommands.png)
 
 ## ssh into your account
 use the ssh command and post your account@ieng6.ucsd.edu afterwards to log into your account. Then type in your password.

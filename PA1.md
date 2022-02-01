@@ -73,6 +73,4 @@ ssh cs15lwi22@ieng6.ucsd.edu "javac printline.java; java printline"
 
 ```
 
-![Image](pictures/sixth.png)
-
-![Image](pictures/scpImage.png)
+![Image](pictures/this.png)

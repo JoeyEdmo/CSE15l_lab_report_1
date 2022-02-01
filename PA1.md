@@ -4,6 +4,8 @@ first you need to download vscode and download the version for your specific mac
 
 go to this website and click the right button
 
+[vscode link](https://code.visualstudio.com/download)
+
 ![Image](pictures/first.png)
 
 ## open terminal in VSCode

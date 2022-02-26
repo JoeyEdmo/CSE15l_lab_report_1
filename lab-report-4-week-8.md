@@ -1,6 +1,11 @@
 # Lab 4
 
-## Code snippet 1
+## all tests written
+
+
+![Image](picturesFour/all.png)
+
+these are all the tests I wrote. 3 tests the 1st file, 4 tests the 2nd, 5 tests the third.
 
 ## my code test 1
 

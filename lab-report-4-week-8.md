@@ -1,5 +1,13 @@
 # Lab 4
 
+## Links to Repos
+
+[Mine](https://joeyedmo.github.com/markdown-parse)
+
+[Other Guy's](https://github.com/BenX-64/markdown-parse)
+
+
+
 ## all tests written
 
 

@@ -2,7 +2,7 @@
 
 ## Links to Repos
 
-[Mine](https://joeyedmo.github.com/markdown-parse)
+[Mine](https://github.com/JoeyEdmo/markdown-parse)
 
 [Other Guy's](https://github.com/BenX-64/markdown-parse)
 

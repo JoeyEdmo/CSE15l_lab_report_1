@@ -29,7 +29,7 @@ expected output:
 
 ![Image](pictures5/secondOut.png)
 
-a link goes through, which means that the class markdown parse is wrong. I believe mine is correct as it grabs the info inside of parenthesis as a link like expected output indicates should happen.
+a link goes through, which means that the class markdown parse is wrong. Mine is also not correct since it gets "/uri title" while the actual link is just "title". I will explore the class issue in this case.
 
 This is where the issue occurs in the class getLinks:
 ![Image](pictures5/secondError.png)

@@ -9,3 +9,6 @@
 
 [Lab 4](https://joeyedmo.github.io/CSE15l_lab_reports/lab-report-4-week-8.html)
 
+[Lab 5](https://joeyedmo.github.io/CSE15l_lab_reports/lab-report-5-week-10.html)
+
+

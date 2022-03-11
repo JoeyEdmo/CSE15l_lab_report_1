@@ -29,5 +29,10 @@ expected output:
 
 ![Image](pictures5/expected2.png)
 
-a link goes through, which means that the class markdown parse is wrong. I also think mine is wrong, as I output /uri "title" while I believe the Markdown link is only "title". 
+a link goes through, which means that the class markdown parse is wrong. I believe mine is correct as it grabs the info inside of parenthesis as a link like expected output indicates should happen.
+
+This is where the issue occurs in the class getLinks:
+![Image](pictures5/secondError.png)
+
+The class code disregards the link as a potential link since it contains a space. Instead of adding it toReturn, it goes into the else statement and continues searching. The actual Markdown believes there is a link there, and does not ignore the link. Therefore a fix has to occur in this link checker.
 

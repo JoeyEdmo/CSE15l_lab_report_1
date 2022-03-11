@@ -27,7 +27,7 @@ difference:
 
 expected output:
 
-![Image](pictures5/expected2.png)
+![Image](pictures5/secondOut.png)
 
 a link goes through, which means that the class markdown parse is wrong. I believe mine is correct as it grabs the info inside of parenthesis as a link like expected output indicates should happen.
 

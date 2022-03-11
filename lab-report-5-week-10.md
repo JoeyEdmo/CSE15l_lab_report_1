@@ -8,5 +8,26 @@
 for both my code and the class code.
 
 ## difference 1
-
+difference:
 ![Image](pictures5/firstDif.png)
+
+expected output:
+![Image](pictures5/expectedOutput1.png)
+
+My code was incorrect. The reason my code was incorrect is I did not take into account the fact that it is in code snippets and should be ignored. There isn't an exact place in my code this fix applies to, since it is something that should be kept track of in my getLinks function. Essentially I should find some way to check if the code is within a code snippet and if so, ignore the code.
+
+In this function:
+![Image](pictures5/getLinks.png)
+
+## difference 2
+
+difference:
+![Image](pictures5/secondDiff.png)
+
+
+expected output:
+
+![Image](pictures5/expected2.png)
+
+a link goes through, which means that the class markdown parse is wrong. I also think mine is wrong, as I output /uri "title" while I believe the Markdown link is only "title". 
+
